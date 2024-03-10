@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .user-item:hover {
+    background-color: gray;
+  }
+  .post-info {
+    /* padding: 20px; */
+    margin: 1px;
+    padding: 0;
+  }
+  
